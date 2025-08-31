@@ -157,6 +157,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="831" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Radio", RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
-
-
-#EXTINF:-1, TESTING
+#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
+#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
+#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
+#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
