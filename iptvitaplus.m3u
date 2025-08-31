@@ -159,5 +159,6 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",################ TESTING ##############
 http://www.google.it
-
+#EXTINF:-1 tvg-name="Frisbee" tvg-id="Frisbee.it" tvg-chno="44", Frisbee
+https://d2pxu244r32qi9.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 
