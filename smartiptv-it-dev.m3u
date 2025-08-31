@@ -1,0 +1,138 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Rai1.it" group-title="Rai" user-agent="rainet/4.0.5",Rai 1
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="Rai2.it" group-title="Rai" user-agent="rainet/4.0.5",Rai 2
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="Rai3.it" group-title="Rai" user-agent="rainet/4.0.5",Rai 3
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="Rai4.it" group-title="Rai" user-agent="rainet/4.0.5",Rai 4
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="Rai5.it" group-title="Rai" user-agent="rainet/4.0.5",Rai 5
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Rai" user-agent="rainet/4.0.5",Rai Movie
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="Rai" user-agent="rainet/4.0.5",Rai Premium
+https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Rai" user-agent="rainet/4.0.5",Rai Gulp
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8|User-agent=rainet/4.0.5
+#EXTINF:0 tvg-id="RaiNews.it" group-title="Rai" user-agent="Rainet/4.0.8",Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16|User-agent=Rainet/4.0.8
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="Rai" user-agent="Rainet/4.0.8",Rai Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16|User-agent=Rainet/4.0.8
+#EXTINF:0 tvg-id="RaiScuola.it" group-title="Rai" user-agent="Rainet/4.0.8",Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16|User-agent=Rainet/4.0.8
+#EXTINF:0 tvg-id="RaiSportPlus.it" group-title="Rai" user-agent="Rainet/4.0.8",Rai Sport + HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16|User-agent=Rainet/4.0.8
+
+#EXTINF:0 tvg-id="Rete4.it" group-title="Mediaset",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Canale5.it" group-title="Mediaset",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Italia1.it" group-title="Mediaset",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="20Mediaset.it" group-title="Mediaset",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Iris.it" group-title="Mediaset",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Twentyseven.it" group-title="Mediaset",27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="LA5.it" group-title="Mediaset",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Cine34.it" group-title="Mediaset",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Focus.it" group-title="Mediaset",FOCUS
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="TopCrime.it" group-title="Mediaset",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Mediaset",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Mediaset" user-agent="HbbTV/1.6.1",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="Italia2.it" group-title="Mediaset" user-agent="HbbTV/1.6.1",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Mediaset" user-agent="HbbTV/1.6.1",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+
+#EXTINF:0 tvg-id="La7.it" group-title="Altro",LA7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:0 tvg-id="TV2000.it" group-title="Altro",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:0 tvg-id="La7d.it" group-title="Altro",LA7d
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:0 tvg-id="QVC.it" group-title="Altro",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:0 tvg-id="Super!.it" group-title="Altro",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:0 tvg-id="Sportitalia.it" group-title="Altro" user-agent="HbbTV/1.6.1",Sportitalia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="DonnaTV.it" group-title="Altro",Donna TV
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1106847327.m3u8
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="Altro",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:0 tvg-id="AlmaTV.it" group-title="Altro",ALMA TV
+https://5a1178b42cc03.streamlock.net/alma/alma/chunklist_w95333518.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Altro" user-agent="HbbTV/1.6.1",Solocalcio
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="ext" group-title="Altro" user-agent="HbbTV/1.6.1",BOM CHANNEL
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="ext" group-title="Altro",Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+
+#EXTINF:0 tvg-id="Tv8.it" group-title="Sky",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:0 tvg-id="Cielo.it" group-title="Sky",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:0 tvg-id="Nove.it" group-title="Discovery",NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:0 tvg-id="RealTime.it" group-title="Discovery",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.it" group-title="Discovery",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:0 tvg-id="WarnerTV.it" group-title="Discovery",Warner TV
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:0 tvg-id="Giallo.it" group-title="Discovery",Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:0 tvg-id="K2.it" group-title="Discovery" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",K2
+https://jmp2.uk/stvp-IT900005HF|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="Frisbee.it" group-title="Discovery",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+#EXTINF:0 tvg-id="DMAX.it" group-title="Discovery" user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"",DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8|User-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+#EXTINF:0 tvg-id="ext" group-title="Discovery" user-agent="HbbTV/1.6.1",HGTV - Home&Garden
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="MotorTrend.it" group-title="Discovery" user-agent="HbbTV/1.6.1",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8|User-agent=HbbTV/1.6.1
+
+#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="Radio",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:0 tvg-id="Radio105TV.it" group-title="Radio" user-agent="HbbTV/1.6.1",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="R101TV.it" group-title="Radio" user-agent="HbbTV/1.6.1",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="myDeejay.it" group-title="Radio",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:0 tvg-id="RadioItalia.it" group-title="Radio",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",RADIO KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:0 tvg-id="RaiRadio2.it" group-title="Radio" user-agent="HbbTV/1.6.1",Rai Radio 2 Visual
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="ext" group-title="Radio",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:0 tvg-id="virginradio.fr" group-title="Radio" user-agent="HbbTV/1.6.1",VIRGIN RADIO
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="RadioFreccia.it" group-title="Radio",RADIO FRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:0 tvg-id="radiozeta.it" group-title="Radio",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio" user-agent="HbbTV/1.6.1",Radio Montecarlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8|User-agent=HbbTV/1.6.1
+#EXTINF:0 tvg-id="ext" group-title="Radio",RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
