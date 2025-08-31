@@ -162,11 +162,9 @@ http://www.google.it
 #EXTINF:-1 tvg-name="Frisbee" tvg-id="Frisbee.it" tvg-chno="44", Frisbee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://d2pxu244r32qi9.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Frisbee" tvg-id="Frisbee.it" tvg-chno="44", Frisbee Only MOZ
 #EXTVLCOPT:http-user-agent=Mozilla
 https://d2pxu244r32qi9.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RaiSport.it@HD",Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="RaiSport.it@HD",Rai Sport HD
