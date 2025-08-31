@@ -158,6 +158,6 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="831" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Radio", RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
-#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
-#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
-#EXTINF:-1 tvg-name="#### TESTING ####" tvg-logo="",#### TESTING ####
+#EXTINF:-1 tvg-name="#### TEST1NG ####" tvg-logo="",#### TEST1NG ####
+#EXTINF:-1 tvg-name="#### T3STING ####" tvg-logo="",#### T3STING ####
+#EXTINF:-1 tvg-name="#### TES7ING ####" tvg-logo="",#### TES7ING ####
